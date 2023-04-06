@@ -95,7 +95,7 @@ print("     \033[1;37mUSAR VPN ISRAEL (PAGO ISRAEL)")
 print("     \033[1;36mCVV  :   \033[1;37m0000")
 print("     \033[1;36mZIP CODE: \033[1;37m00000")
 print("")
-indesiso = input("     \033[1;32mUser Format \033[1;37m(y) (n)\033[1;32m: \033[1;37m")
+indesiso = input("     \033[1;32mShare Bin \033[1;37m(y) (n)\033[1;32m: \033[1;37m")
 
 if indesiso == "y":
   print("")
