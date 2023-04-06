@@ -102,9 +102,7 @@ if indesiso == "y":
   bin = input("     \033[1;36mBin: \033[1;37m")
   fecha = input("     \033[1;36mFecha: \033[1;37m")
   print("")
-  print("     \033[1;37m-----------------")
   print("     BIN  CRUNCHYROLL")
-  print("     -----------------")
   print("")
   print(f"     💳BIN: {bin}")
   print(f"     🗒FECHA: {fecha}")
@@ -112,7 +110,7 @@ if indesiso == "y":
   print("     🏷ZIP CODE: 00000")
   print("")
   print("     IP: ISRAEL 😎")
-  print("     AL MOMENTO DE PAGO CAMBIAR PAIS ISRAEL")
+  print("     AL MOMENTO DE PAGO PAIS ISRAEL")
   print("     ...JALA A FULL GEN")
 else:
   exit()
