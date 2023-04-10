@@ -3,9 +3,16 @@ Saca tus bin para CRUNCHYROLL,  con 418238 a puras generadas , ingresa la cantid
 
 pip install datetime
 
-NOTA: RECUERDA USAR LOS BIN CON VPN ISRAEL, SI GUSTAN SIN VPN (PAGO A ISRAEL)
+A LA HORA DE CREAR LA CUENTA CRUNCHYROLL SIN VPN
 
-O IP TUYA, (PAGO A SINGAPUR)
+NOTA: RECUERDA USAR LOS BIN CON VPN ISRAEL, (PAGO A ISRAEL)
+
+VPN SINGAPUR (PAGO A SINGAPUR)
+
+*****
+TUTORIAL:
+
+- https://drive.google.com/drive/folders/1cwQ185r_qnsyFc7ZPWnPGgLhM-0vAjDg
 
 *****
 BYE : 0_0
