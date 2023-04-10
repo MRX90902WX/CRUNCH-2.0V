@@ -127,10 +127,10 @@ if indesiso == "y":
   print("     🏷ZIP CODE: 00000")
   print("")
   print("     IP: TUYA  😎")
-  print("     AL MOMENTO DE PAGO PAIS SINGAPUR")
+  print("     AL MOMENTO DE PAGO (VPN) PAIS SINGAPUR")
   print("     -------o------")
-  print("     IP: ISRAEL 😎")
-  print("     AL MOMENTO DE PAGO PAIS ISRAEL")
+  print("     IP: TUYA 😎")
+  print("     AL MOMENTO DE PAGO (VPN) PAIS ISRAEL")
   print("     ...JALA A FULL GEN")
 else:
   exit()
